@@ -1,0 +1,581 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.first-exercise {
+  width: 100%;
+  background-image: url("./images/exercise.png");
+  background-size: cover;
+  height: 700px;
+  background-repeat: no-repeat;
+}
+.hosting-server {
+  display: flex;
+  padding-top: 15rem;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+.local {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  color: whitesmoke;
+  font-size: 12px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid white;
+}
+
+.right-circle {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  font-size: 12px;
+  color: whitesmoke;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid white;
+}
+/* ******************************************************************************************** */
+.live-blopo {
+  padding-top: 4rem;
+  color: #303030;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.dogers-first {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+.cronopo {
+  margin: 1rem;
+  background: #f9f6f2;
+  border-radius: 7px;
+  max-width: 225px;
+  padding: 3rem 4rem;
+  text-align: center;
+}
+.watch-time {
+  width: 45px;
+  height: 45px;
+}
+.first12 {
+  margin: 1rem;
+  background: #f9f6f2;
+  border-radius: 7px;
+  max-width: 230px;
+  padding: 3rem 5rem;
+  text-align: center;
+}
+.toggle {
+  font-size: 15px;
+  max-width: 100%;
+  font-family: "Poppins", sans-serif;
+  color: #33475b;
+  padding-top: 20px;
+  font-weight: 200;
+}
+/* **************************************************************************** */
+.social-media {
+  padding-top: 4rem;
+  color: #303030;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.system-logic-part {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-section-monkey {
+  padding-left: 15%;
+}
+#women-ex {
+  max-width: 520px;
+  z-index: 2;
+}
+.science {
+  position: relative;
+}
+#dooted {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  z-index: -1;
+}
+.right-section-loopy {
+  margin-top: 8%;
+  padding-left: 4%;
+}
+.fit-setting {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.para-pinot {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.cafe-point {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+@media (max-width: 1308px) {
+  .system-logic-part {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+}
+/* ******************************************************************************************************* */
+.fitness-4-main-part-live-somo {
+  margin-top: 6rem;
+}
+.loko-pilate {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-pichko-section {
+  margin-top: 8%;
+  padding-left: 10%;
+}
+.bithing {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.sheet-rolo {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 60%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.rofoz {
+  display: flex;
+  gap: 20px;
+  padding-top: 18px;
+}
+#check {
+  width: 24px;
+  height: 24px;
+}
+.linx {
+  max-width: 55%;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+}
+.footboll {
+  font-family: "Poppins", sans-serif;
+  border: none;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  color: white;
+  text-align: center;
+  padding: 15px 22px;
+  border-radius: 50px;
+  background: #3595f6;
+  max-width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 27px;
+  text-transform: uppercase;
+}
+#poco {
+  max-width: 500px;
+  z-index: 2;
+}
+.maths {
+  position: relative;
+}
+#zoo {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  z-index: -1;
+}
+.right-foolo-joker {
+  padding-right: 10%;
+}
+/* *********************************************************************************************************** */
+.phone-dolo-part {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-vivio-money {
+  padding-left: 15%;
+}
+#nom {
+  max-width: 520px;
+  z-index: 2;
+}
+.biloogy {
+  position: relative;
+}
+#dooted {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  z-index: -1;
+}
+.right-apple-ciso {
+  margin-top: 8%;
+  padding-left: 4%;
+}
+.door-heate {
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.lava-qube {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.windo-mouse {
+  display: flex;
+  gap: 20px;
+  padding-top: 12px;
+}
+#check {
+  width: 24px;
+  height: 24px;
+}
+.parrle {
+  max-width: 55%;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  color: #3595f6;
+}
+.hoocky {
+  font-family: "Poppins", sans-serif;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 21px;
+  color: white;
+  text-align: center;
+  padding: 15px 40px;
+  border-radius: 50px;
+  background: #3595f6;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 27px;
+  text-transform: uppercase;
+}
+/* ************************************************************************* */
+.fitness-6-men-high {
+  margin-top: 6rem;
+}
+.dogger-bopo {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-gfn-ptr {
+  margin-top: 8%;
+  padding-left: 10%;
+}
+.tv-live {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.hp-siro-tub {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 60%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.topo_ice {
+  font-family: "Poppins", sans-serif;
+  padding-top: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 60%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.sin-clock {
+  display: flex;
+  gap: 20px;
+  padding-top: 12px;
+}
+#check {
+  width: 24px;
+  height: 24px;
+}
+.apple-ovel {
+  max-width: 55%;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  color: #3595f6;
+}
+
+#portal {
+  max-width: 500px;
+  z-index: 2;
+}
+.chpoi {
+  position: relative;
+}
+#iot {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  z-index: -1;
+}
+.right-wire-part-dm {
+  padding-right: 10%;
+}
+/* **************************************************************************************************************************** */
+.fitness-7-mapping-watch {
+  margin-top: 6rem;
+}
+.patner-genic {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-contso-bage {
+  padding-left: 15%;
+}
+#watch {
+  max-width: 520px;
+  z-index: 2;
+}
+.dimond {
+  position: relative;
+}
+#dooted {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  z-index: -1;
+}
+.right-promo-jolo {
+  margin-top: 8%;
+  padding-left: 4%;
+}
+.view-one-row {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.payo-voo {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.gropo {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.coloin {
+  display: flex;
+  justify-content: start;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.boxer {
+  border: 1px solid#3595f6;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 50px;
+  background-color: white;
+  max-width: 60%;
+  padding: 20px 30px;
+  gap: 14px;
+  margin: 1rem;
+}
+.apple-curve {
+  width: 19px;
+  height: 19px;
+}
+.mato {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 21px;
+  color: #3595f6;
+  font-family: "Poppins", sans-serif;
+}
+/* *********************************************************************************************** */
+.fitness-8-coin-point {
+  margin-top: 6rem;
+}
+.nabl-part {
+  display: flex;
+  justify-content: space-evenly;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-douo0 {
+  margin-top: 8%;
+  padding-left: 5%;
+}
+.earn2-view {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.custom-staff {
+  font-family: "Poppins", sans-serif;
+  padding-top: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 60%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.hill-hot {
+  font-family: "Poppins", sans-serif;
+  padding-top: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.bhoot {
+  font-family: "Poppins", sans-serif;
+  padding-top: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.siro {
+  font-family: "Poppins", sans-serif;
+  padding-top: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.soppy {
+  font-family: "Poppins", sans-serif;
+  padding-top: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25px;
+  max-width: 65%;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#tree-green {
+  max-width: 500px;
+  z-index: 2;
+}
+.chappti {
+  position: relative;
+}
+#banner {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  z-index: -1;
+}
+.right-coin-yello-jio {
+  padding-right: 15%;
+}
