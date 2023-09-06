@@ -153,10 +153,50 @@
   letter-spacing: 0em;
   text-align: left;
 }
-@media (max-width: 1308px) {
+@media (max-width: 1265px) {
+  .para-pinot {
+    max-width: 75%;
+  }
+}
+@media (max-width: 1101px) {
   .system-logic-part {
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .fokou {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+    padding-left: 12%;
+  }
+  .left-section-monkey {
+    padding-left: 6%;
+    text-align: center;
+  }
+}
+@media (max-width: 621px) {
+  #dooted {
+    max-width: 130px;
+  }
+  #women-ex {
+    max-width: 350px;
+  }
+  .fokou {
+    max-width: 100%;
+  }
+}
+@media (max-width: 454px) {
+  #dooted {
+    max-width: 90px;
+  }
+  #women-ex {
+    max-width: 250px;
+  }
+  .fokou {
+    max-width: 100%;
   }
 }
 /* ******************************************************************************************************* */
@@ -241,6 +281,48 @@
 .right-foolo-joker {
   padding-right: 10%;
 }
+@media (max-width: 1107px) {
+  .loko-pilate {
+    text-align: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .jiloo {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+  }
+}
+@media (max-width: 709px) {
+  #zoo {
+    max-width: 130px;
+  }
+  #poco {
+    max-width: 350px;
+  }
+}
+@media (max-width: 465px) {
+  #zoo {
+    max-width: 90px;
+  }
+  #poco {
+    max-width: 250px;
+  }
+  .jiloo {
+    max-width: 100%;
+  }
+  .footboll {
+    max-width: 70%;
+  }
+}
+@media (max-width: 602px) {
+  .footboll {
+    max-width: 80%;
+  }
+}
 /* *********************************************************************************************************** */
 .phone-dolo-part {
   margin-top: 5rem;
@@ -322,6 +404,51 @@
   margin-top: 27px;
   text-transform: uppercase;
 }
+@media (max-width: 1101px) {
+  .phone-dolo-part {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .digio {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+    padding-left: 6%;
+  }
+  .left-vivio-money {
+    padding-left: 6%;
+  }
+}
+@media (max-width: 709px) {
+  #dooted {
+    max-width: 130px;
+  }
+  #nom {
+    max-width: 450px;
+  }
+  .digio {
+    max-width: 100%;
+  }
+}
+@media (max-width: 545px) {
+  .hoocky {
+    max-width: 80%;
+  }
+}
+@media (max-width: 447px) {
+  #dooted {
+    max-width: 90px;
+  }
+  #nom {
+    max-width: 250px;
+  }
+  .hoocky {
+    max-width: 90%;
+  }
+}
 /* ************************************************************************* */
 .fitness-6-men-high {
   margin-top: 6rem;
@@ -399,6 +526,49 @@
 .right-wire-part-dm {
   padding-right: 10%;
 }
+@media (max-width: 1107px) {
+  .dogger-bopo {
+    text-align: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rabit {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+  }
+}
+@media (max-width: 709px) {
+  #iot {
+    max-width: 130px;
+  }
+  #portal {
+    max-width: 450px;
+  }
+}
+@media (max-width: 600px) {
+  #iot {
+    max-width: 90px;
+  }
+  #portal {
+    max-width: 250px;
+  }
+}
+@media (max-width: 465px) {
+  #iot {
+    max-width: 90px;
+  }
+  #portal {
+    max-width: 250px;
+  }
+  .rabit {
+    max-width: 100%;
+  }
+}
+
 /* **************************************************************************************************************************** */
 .fitness-7-mapping-watch {
   margin-top: 6rem;
@@ -489,6 +659,55 @@
   color: #3595f6;
   font-family: "Poppins", sans-serif;
 }
+@media (max-width: 1101px) {
+  .patner-genic {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .sumusang {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+    padding-left: 6%;
+  }
+  .left-contso-bage {
+    padding-left: 6%;
+  }
+}
+@media (max-width: 709px) {
+  #dooted {
+    max-width: 130px;
+  }
+  #watch {
+    max-width: 450px;
+  }
+  .sumusang {
+    max-width: 100%;
+    padding-left: 10%;
+  }
+  .coloin {
+    flex-direction: column;
+    text-align: center;
+  }
+  .boxer {
+    max-width: 60%;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 447px) {
+  #dooted {
+    max-width: 90px;
+  }
+  #watch {
+    max-width: 250px;
+  }
+}
 /* *********************************************************************************************** */
 .fitness-8-coin-point {
   margin-top: 6rem;
@@ -578,4 +797,46 @@
 }
 .right-coin-yello-jio {
   padding-right: 15%;
+}
+@media (max-width: 1107px) {
+  .nabl-part {
+    text-align: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rupess {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+  }
+}
+@media (max-width: 709px) {
+  #banner {
+    max-width: 130px;
+  }
+  #tree-green {
+    max-width: 450px;
+  }
+}
+@media (max-width: 600px) {
+  #banner {
+    max-width: 90px;
+  }
+  #tree-green {
+    max-width: 250px;
+  }
+}
+@media (max-width: 465px) {
+  #banner {
+    max-width: 90px;
+  }
+  #tree-green {
+    max-width: 250px;
+  }
+  .rupess {
+    max-width: 100%;
+  }
 }
