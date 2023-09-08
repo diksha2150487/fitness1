@@ -158,7 +158,7 @@
     max-width: 75%;
   }
 }
-@media (max-width: 1101px) {
+@media (max-width: 1107px) {
   .system-logic-part {
     flex-direction: column;
     align-items: center;
@@ -177,26 +177,40 @@
     text-align: center;
   }
 }
-@media (max-width: 621px) {
+@media (max-width: 774px) {
   #dooted {
     max-width: 130px;
   }
   #women-ex {
-    max-width: 350px;
+    max-width: 370px;
   }
   .fokou {
     max-width: 100%;
   }
+  .para-pinot {
+    max-width: 75%;
+  }
+}
+@media (max-width: 893px) {
+  .fokou {
+    padding-left: 8%;
+  }
 }
 @media (max-width: 454px) {
   #dooted {
-    max-width: 90px;
+    max-width: 70px;
   }
   #women-ex {
     max-width: 250px;
   }
   .fokou {
     max-width: 100%;
+  }
+}
+@media (max-width: 545px) {
+  .fit-setting {
+    font-size: 28px;
+    margin-top: 10px;
   }
 }
 /* ******************************************************************************************************* */
@@ -260,8 +274,8 @@
   border-radius: 50px;
   background: #3595f6;
   max-width: 40%;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
   margin-top: 27px;
   text-transform: uppercase;
 }
@@ -289,6 +303,7 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 9%;
   }
   .jiloo {
     margin-left: auto;
@@ -296,12 +311,29 @@
     padding-left: 10%;
   }
 }
-@media (max-width: 709px) {
+@media (max-width: 1314px) {
+  .footboll {
+    max-width: 80%;
+    align-items: center;
+  }
+}
+@media (max-width: 774px) {
   #zoo {
     max-width: 130px;
   }
   #poco {
-    max-width: 350px;
+    max-width: 370px;
+  }
+  .jiloo {
+    max-width: 100%;
+  }
+}
+@media (max-width: 893px) {
+  .jiloo {
+    padding-left: 8%;
+  }
+  .left-pichko-section {
+    padding-left: 7%;
   }
 }
 @media (max-width: 465px) {
@@ -314,15 +346,11 @@
   .jiloo {
     max-width: 100%;
   }
-  .footboll {
-    max-width: 70%;
+  .bithing {
+    font-size: 28px;
   }
 }
-@media (max-width: 602px) {
-  .footboll {
-    max-width: 80%;
-  }
-}
+
 /* *********************************************************************************************************** */
 .phone-dolo-part {
   margin-top: 5rem;
@@ -404,7 +432,7 @@
   margin-top: 27px;
   text-transform: uppercase;
 }
-@media (max-width: 1101px) {
+@media (max-width: 1107px) {
   .phone-dolo-part {
     flex-direction: column;
     align-items: center;
@@ -416,21 +444,35 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
-    padding-left: 6%;
+    padding-left: 12%;
   }
   .left-vivio-money {
     padding-left: 6%;
   }
 }
-@media (max-width: 709px) {
+@media (max-width: 1320px) {
+  .hoocky {
+    max-width: 75%;
+  }
+}
+@media (max-width: 774px) {
   #dooted {
     max-width: 130px;
   }
   #nom {
-    max-width: 450px;
+    max-width: 370px;
   }
   .digio {
     max-width: 100%;
+  }
+}
+
+@media (max-width: 893px) {
+  .digio {
+    padding-left: 8%;
+  }
+  .left-vivio-money {
+    padding-left: 7%;
   }
 }
 @media (max-width: 545px) {
@@ -438,7 +480,7 @@
     max-width: 80%;
   }
 }
-@media (max-width: 447px) {
+@media (max-width: 465px) {
   #dooted {
     max-width: 90px;
   }
@@ -448,7 +490,12 @@
   .hoocky {
     max-width: 90%;
   }
+  .door-heate {
+    font-size: 28px;
+    margin-top: 15px;
+  }
 }
+
 /* ************************************************************************* */
 .fitness-6-men-high {
   margin-top: 6rem;
@@ -538,25 +585,38 @@
   .rabit {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 10%;
+    padding-left: 20%;
+  }
+  .right-wire-part-dm {
+    padding-left: 12%;
   }
 }
-@media (max-width: 709px) {
+@media (max-width: 774px) {
   #iot {
     max-width: 130px;
   }
   #portal {
-    max-width: 450px;
+    max-width: 370px;
+  }
+  .rabit {
+    max-width: 100%;
   }
 }
-@media (max-width: 600px) {
-  #iot {
-    max-width: 90px;
+@media (max-width: 893px) {
+  .rabit {
+    padding-left: 8%;
   }
-  #portal {
-    max-width: 250px;
+  .left-gfn-ptr {
+    padding-left: 7%;
+  }
+  .hp-siro-tub {
+    max-width: 70%;
+  }
+  .topo_ice {
+    max-width: 70%;
   }
 }
+
 @media (max-width: 465px) {
   #iot {
     max-width: 90px;
@@ -659,7 +719,12 @@
   color: #3595f6;
   font-family: "Poppins", sans-serif;
 }
-@media (max-width: 1101px) {
+@media (max-width: 1216px) {
+  .boxer {
+    max-width: 80%;
+  }
+}
+@media (max-width: 1107px) {
   .patner-genic {
     flex-direction: column;
     align-items: center;
@@ -671,22 +736,18 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
-    padding-left: 6%;
+    padding-left: 12%;
   }
   .left-contso-bage {
     padding-left: 6%;
   }
 }
-@media (max-width: 709px) {
+@media (max-width: 774px) {
   #dooted {
     max-width: 130px;
   }
   #watch {
-    max-width: 450px;
-  }
-  .sumusang {
-    max-width: 100%;
-    padding-left: 10%;
+    max-width: 370px;
   }
   .coloin {
     flex-direction: column;
@@ -700,22 +761,36 @@
     justify-content: center;
   }
 }
-@media (max-width: 447px) {
+@media (max-width: 893px) {
+  .sumusang {
+    padding-left: 5%;
+  }
+  /* .payo-voo {
+    max-width: 100%;
+  } */
+}
+@media (max-width: 465px) {
   #dooted {
     max-width: 90px;
   }
   #watch {
     max-width: 250px;
   }
+  .sumusang {
+    max-width: 100%;
+  }
+  .payo-voo {
+    max-width: 100%;
+  }
 }
+
 /* *********************************************************************************************** */
 .fitness-8-coin-point {
-  margin-top: 6rem;
+  margin-top: 4rem;
 }
 .nabl-part {
   display: flex;
   justify-content: space-evenly;
-
   margin-left: auto;
   margin-right: auto;
 }
@@ -810,33 +885,26 @@
   .rupess {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 10%;
+    padding-left: 15%;
   }
 }
-@media (max-width: 709px) {
+@media (max-width: 774px) {
   #banner {
     max-width: 130px;
   }
   #tree-green {
-    max-width: 450px;
+    max-width: 370px;
+  }
+  .rupess {
+    max-width: 100%;
   }
 }
-@media (max-width: 600px) {
-  #banner {
-    max-width: 90px;
-  }
-  #tree-green {
-    max-width: 250px;
-  }
-}
+
 @media (max-width: 465px) {
   #banner {
     max-width: 90px;
   }
   #tree-green {
     max-width: 250px;
-  }
-  .rupess {
-    max-width: 100%;
   }
 }
