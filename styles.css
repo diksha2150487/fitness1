@@ -157,6 +157,10 @@
   .para-pinot {
     max-width: 75%;
   }
+  .fokou {
+    text-align: center;
+    width: 100%;
+  }
 }
 @media (max-width: 1107px) {
   .system-logic-part {
@@ -171,6 +175,7 @@
     margin-right: auto;
     max-width: 70%;
     padding-left: 12%;
+    text-align: center;
   }
   .left-section-monkey {
     padding-left: 6%;
@@ -315,6 +320,7 @@
   .footboll {
     max-width: 80%;
     align-items: center;
+    justify-content: center;
   }
 }
 @media (max-width: 774px) {
@@ -326,15 +332,16 @@
   }
   .jiloo {
     max-width: 100%;
+    text-align: center;
   }
 }
 @media (max-width: 893px) {
   .jiloo {
-    padding-left: 8%;
+    padding-left: 4%;
   }
-  .left-pichko-section {
+  /* .left-pichko-section {
     padding-left: 7%;
-  }
+  } */
 }
 @media (max-width: 465px) {
   #zoo {
@@ -345,6 +352,8 @@
   }
   .jiloo {
     max-width: 100%;
+    text-align: center;
+    width: 100%;
   }
   .bithing {
     font-size: 28px;
@@ -464,9 +473,9 @@
   }
   .digio {
     max-width: 100%;
+    text-align: center;
   }
 }
-
 @media (max-width: 893px) {
   .digio {
     padding-left: 8%;
@@ -493,6 +502,10 @@
   .door-heate {
     font-size: 28px;
     margin-top: 15px;
+  }
+  .digio {
+    text-align: center;
+    padding-left: 18%;
   }
 }
 
