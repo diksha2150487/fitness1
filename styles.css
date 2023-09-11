@@ -135,7 +135,7 @@
 }
 .para-pinot {
   font-family: "Poppins", sans-serif;
-  padding-top: 22px;
+  padding-top: 17px;
   font-size: 18px;
   font-weight: 500;
   line-height: 25px;
@@ -145,7 +145,7 @@
 }
 .cafe-point {
   font-family: "Poppins", sans-serif;
-  padding-top: 22px;
+  /* padding-top: 17px; */
   font-size: 18px;
   font-weight: 500;
   line-height: 25px;
@@ -174,11 +174,11 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
-    padding-left: 12%;
+    /* padding-left: 12%; */
     text-align: center;
   }
   .left-section-monkey {
-    padding-left: 6%;
+    /* padding-left: 6%; */
     text-align: center;
   }
 }
@@ -196,11 +196,11 @@
     max-width: 75%;
   }
 }
-@media (max-width: 893px) {
+/* @media (max-width: 893px) {
   .fokou {
     padding-left: 8%;
   }
-}
+} */
 @media (max-width: 454px) {
   #dooted {
     max-width: 70px;
@@ -210,13 +210,47 @@
   }
   .fokou {
     max-width: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+  }
+  .fit-setting {
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+  }
+  .para-pinot {
+    max-width: 100%;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+  }
+  .cafe-point {
+    max-width: 100%;
+    font-size: 16px;
+    width: 100%;
+  }
+  .left-section-monkey {
+    padding-left: 0%;
   }
 }
 @media (max-width: 545px) {
   .fit-setting {
-    font-size: 28px;
-    margin-top: 10px;
+    font-size: 22px;
+    margin-top: 1px;
   }
+  .fokou {
+    align-items: center;
+  }
+  .system-logic-part {
+    margin-top: 3rem;
+  }
+  /* .para-pinot {
+    max-width: 100%;
+    text-align: center;
+  } */
 }
 /* ******************************************************************************************************* */
 .fitness-4-main-part-live-somo {
@@ -239,14 +273,15 @@
   line-height: 37px;
   letter-spacing: 0em;
   text-align: left;
+  padding-bottom: 15px;
 }
 .sheet-rolo {
   font-family: "Poppins", sans-serif;
-  padding-top: 22px;
+  /* padding-top: 22px; */
   font-size: 17px;
   font-weight: 500;
   line-height: 25px;
-  max-width: 60%;
+  /* max-width: 60%; */
   letter-spacing: 0em;
   text-align: left;
 }
@@ -308,12 +343,12 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 9%;
+    /* padding-left: 9%; */
   }
   .jiloo {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 10%;
+    /* padding-left: 10%; */
   }
 }
 @media (max-width: 1314px) {
@@ -337,7 +372,7 @@
 }
 @media (max-width: 893px) {
   .jiloo {
-    padding-left: 4%;
+    /* padding-left: 4%; */
   }
   /* .left-pichko-section {
     padding-left: 7%;
@@ -354,9 +389,34 @@
     max-width: 100%;
     text-align: center;
     width: 100%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
   }
   .bithing {
-    font-size: 28px;
+    font-size: 20px;
+    max-width: 100%;
+    text-align: center;
+  }
+  .sheet-rolo {
+    text-align: center;
+    max-height: 100%;
+    width: 100%;
+    font-size: 18px;
+    padding-right: 0%;
+    margin-right: 0%;
+    align-items: center;
+  }
+  .rofoz {
+    max-width: 100%;
+    text-align: center;
+    width: 100%;
+  }
+  .right-foolo-joker {
+    padding-right: 0%;
+  }
+  .linx {
+    max-width: 100%;
   }
 }
 
@@ -453,7 +513,7 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
-    padding-left: 12%;
+    /* padding-left: 12%; */
   }
   .left-vivio-money {
     padding-left: 6%;
@@ -505,7 +565,30 @@
   }
   .digio {
     text-align: center;
-    padding-left: 18%;
+    /* padding-left: 18%; */
+  }
+  .lava-qube {
+    text-align: center;
+    max-width: 100%;
+  }
+  .door-heate {
+    text-align: center;
+  }
+  .parrle {
+    max-width: 100%;
+    text-align: center;
+  }
+  .digio {
+    padding-left: 0%;
+  }
+  .left-vivio-money {
+    padding-left: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+  }
+  .hoocky {
+    max-width: 100%;
   }
 }
 
@@ -598,10 +681,10 @@
   .rabit {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 20%;
+    /* padding-left: 20%; */
   }
   .right-wire-part-dm {
-    padding-left: 12%;
+    /* padding-left: 12%; */
   }
 }
 @media (max-width: 774px) {
@@ -639,6 +722,37 @@
   }
   .rabit {
     max-width: 100%;
+    align-items: center;
+    width: 100%;
+  }
+  .left-gfn-ptr {
+    text-align: center;
+  }
+  .hp-siro-tub {
+    max-width: 100%;
+    text-align: center;
+  }
+  .topo_ice {
+    max-width: 100%;
+    text-align: center;
+  }
+  /* .apple-ovel {
+    text-align: center;
+  } */
+  .sin-clock {
+    padding-left: 5%;
+  }
+  .tv-live {
+    text-align: center;
+  }
+  .rabit {
+    padding-left: 0%;
+  }
+  .left-gfn-ptr {
+    padding-left: 0%;
+  }
+  .right-wire-part-dm {
+    padding-right: 0%;
   }
 }
 
@@ -791,9 +905,33 @@
   }
   .sumusang {
     max-width: 100%;
+    padding-left: 0%;
+    text-align: center;
+    align-items: center;
   }
   .payo-voo {
     max-width: 100%;
+  }
+  .left-contso-bage {
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .view-one-row {
+    font-size: 20px;
+    text-align: center;
+  }
+  .payo-voo {
+    text-align: center;
+    padding-top: 10px;
+  }
+  .coloin {
+    align-items: center;
+    padding-right: 0%;
+  }
+  .boxer {
+    margin: 10px;
   }
 }
 
@@ -912,12 +1050,52 @@
     max-width: 100%;
   }
 }
-
 @media (max-width: 465px) {
   #banner {
     max-width: 90px;
   }
   #tree-green {
     max-width: 250px;
+  }
+  .left-douo0 {
+    padding-left: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .earn2-view {
+    max-width: 100%;
+    text-align: center;
+    font-size: 20px;
+  }
+  .custom-staff {
+    max-width: 100%;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .hill-hot {
+    max-width: 100%;
+    text-align: center;
+  }
+  .soppy {
+    max-width: 100%;
+    text-align: center;
+  }
+  .siro {
+    max-width: 100%;
+    text-align: center;
+  }
+  .bhoot {
+    max-width: 100%;
+    text-align: center;
+  }
+  .rupess {
+    padding-left: 0%;
+  }
+  .right-coin-yello-jio {
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
